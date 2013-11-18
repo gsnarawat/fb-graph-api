@@ -1,0 +1,48 @@
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-18 15:16:33 +0530
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/home (4.0ms)
+Completed 200 OK in 89ms (Views: 87.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2013-11-18 15:16:34 +0530
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered /home/kipl33/.rvm/gems/ruby-2.0.0-p0/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.2ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2013-11-18 15:16:35 +0530
+
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+
+Rendered /home/kipl33/.rvm/gems/ruby-2.0.0-p0/gems/actionpack-3.1.0/lib/action_dispatch/middleware/templates/rescues/routing_error.erb within rescues/layout (1.8ms)
+
+
+Started GET "/home/callback?code=AQAEX8WyNQojFvUVH9HglzVKhB0zVMGyz74jdvm3odfeCVnk279ZxnLGkXQo7XCWX5ZCWEQVp3cPIuLJwsPurJjIUe2bJoqOXfbU_vnoVrWFKp-EFoIcuTQJ1N4Ap7ebiCSE2eVkWWkzZ6bVVFiNVryq9qa1HN1NM8dP_8iUACV4-Eq7SV-z1jU7OubjUZ7ePvv0YQDn9IQOAAaKV--UnnE-muGq9L5tHdimQFqJamPDFHPVRfSewIkIC_DJC0O1LqPm4TnT-VBXh2CKlCw2Cz8c_MhkeV727vNUWz4P7t1_zUCLJHUt3rQUZMe-uG63ClY" for 127.0.0.1 at 2013-11-18 15:17:13 +0530
+  Processing by HomeController#callback as HTML
+  Parameters: {"code"=>"AQAEX8WyNQojFvUVH9HglzVKhB0zVMGyz74jdvm3odfeCVnk279ZxnLGkXQo7XCWX5ZCWEQVp3cPIuLJwsPurJjIUe2bJoqOXfbU_vnoVrWFKp-EFoIcuTQJ1N4Ap7ebiCSE2eVkWWkzZ6bVVFiNVryq9qa1HN1NM8dP_8iUACV4-Eq7SV-z1jU7OubjUZ7ePvv0YQDn9IQOAAaKV--UnnE-muGq9L5tHdimQFqJamPDFHPVRfSewIkIC_DJC0O1LqPm4TnT-VBXh2CKlCw2Cz8c_MhkeV727vNUWz4P7t1_zUCLJHUt3rQUZMe-uG63ClY"}
+Rendered home/callback.html.erb within layouts/home (3.0ms)
+Completed 200 OK in 8686ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-18 15:18:59 +0530
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/home (0.5ms)
+Completed 200 OK in 12ms (Views: 10.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/home/callback?code=AQCCVmLf9-YBbwjC7l-V_a7Djpm-kdYTbspjh3nUG2jDBBB6x3M3g0oTzzEHnGNUsIpglzZedzc8iRjJDqAiY0USJYhoOe6RLm7GFrrLn_Zr9Vqi7g_hBA6mskXjYeN3uUjWJqqI0jMQtELfdCiRiHsy6BGaFqQvcjJMJ8L3NqsUGYCZ3o1keHAoE6AO4kYTiJEXceEfF0XNphrJeZ72yb4hoid0UlXqQXGUT7K-K0_sFTKNlimbpF3D5oRsBhyvU3MgSLUK-4jFcgBpfnvmriQSf4IDgkkKkqiACjDRoPG9QCvXPFsloVznyV_MZ30sBPE" for 127.0.0.1 at 2013-11-18 15:19:03 +0530
+  Processing by HomeController#callback as HTML
+  Parameters: {"code"=>"AQCCVmLf9-YBbwjC7l-V_a7Djpm-kdYTbspjh3nUG2jDBBB6x3M3g0oTzzEHnGNUsIpglzZedzc8iRjJDqAiY0USJYhoOe6RLm7GFrrLn_Zr9Vqi7g_hBA6mskXjYeN3uUjWJqqI0jMQtELfdCiRiHsy6BGaFqQvcjJMJ8L3NqsUGYCZ3o1keHAoE6AO4kYTiJEXceEfF0XNphrJeZ72yb4hoid0UlXqQXGUT7K-K0_sFTKNlimbpF3D5oRsBhyvU3MgSLUK-4jFcgBpfnvmriQSf4IDgkkKkqiACjDRoPG9QCvXPFsloVznyV_MZ30sBPE"}
+Rendered home/callback.html.erb within layouts/home (2.6ms)
+Completed 200 OK in 2211ms (Views: 12.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2013-11-18 15:19:15 +0530
+  Processing by HomeController#index as HTML
+Rendered home/index.html.erb within layouts/home (5.7ms)
+Completed 200 OK in 19ms (Views: 16.3ms | ActiveRecord: 0.0ms)
